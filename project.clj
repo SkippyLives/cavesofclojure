@@ -2,6 +2,6 @@
   :description "The Caves of Clojure"
   :url "http://stevelosh.com/blog/2012/07/caves-of-clojure-01/"
   :license {:name "MIT/X11"}
-  :dependencies [[org.clojure/clojure "1.4.0"]
+  :dependencies [[org.clojure/clojure "1.8.0"]
                  [clojure-lanterna "0.9.0"]]
   :main caves.core)
